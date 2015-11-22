@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":4,"characterName":"Evil","classId":1,"equips":[1,1,3,3,0],"faceIndex":4,"faceName":"Evil","traits":[],"initialLevel":50,"maxLevel":50,"name":"ヌパン４世","nickname":"ヌパン","note":"","profile":"世界的大泥棒ルパン３世を超えるため、黒装束を身にまとい\n今日も彼は盗みを働く。その素性は…"},
+{"id":2,"battlerName":"","characterIndex":3,"characterName":"People3","classId":2,"equips":[3,2,4,3,0],"faceIndex":3,"faceName":"People3","traits":[],"initialLevel":1,"maxLevel":1,"name":"ユーフォリア","nickname":"ユーフォリア","note":"","profile":"イギリス・ロンドンの人里離れた城で隔離されていた\n正当王権継承者。決められた道から逃げたがっている。"}
+]

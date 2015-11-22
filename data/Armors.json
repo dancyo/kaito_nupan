@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"atypeId":1,"description":"動きやすさのみを追求した羽衣。","etypeId":2,"traits":[],"iconIndex":139,"name":"黒のジャケット","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":2,"atypeId":2,"description":"神秘の光を放つドレス。\n暗いところでも照らしてくれるような優しい光だ。","etypeId":2,"traits":[],"iconIndex":154,"name":"ロイヤルドレス","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":3,"atypeId":1,"description":"遠くのものを見たいときはこれを使う。\nヌパンが唯一盗んで返さなかったもの。","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":151,"name":"オペラグラス","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":4,"atypeId":2,"description":"死の間際に父が託したお守り。","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":147,"name":"父のお守り","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
+]
