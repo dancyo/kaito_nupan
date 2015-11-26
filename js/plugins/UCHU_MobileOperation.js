@@ -113,15 +113,15 @@ DPad OpelationRangeよりも大きめの数値を指定すると、入力が楽�
 
 @param DPad Image
 @desc 方向パッド画像のファイルパス
-@default ./img/classic/DirPad.png
+@default ./img/system/DirPad.png
 
 @param ActionBtn Image
 @desc 決定ボタン画像のファイルパス
-@default ./img/classic/ActionButton.png
+@default ./img/system/ActionButton.png
 
 @param CancelBtn Image
 @desc キャンセル（メニュー）ボタン画像のファイルパス
-@default ./img/classic/CancelButton.png
+@default ./img/system/CancelButton.png
 
 @param ---Button Customize---
 @default
